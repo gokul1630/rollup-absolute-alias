@@ -1,0 +1,25 @@
+{
+  "name": "rollup-absolute-alias",
+  "version": "1.0.0",
+  "author": "Gokulprasanth",
+  "license": "ISC",
+  "description": "Tiny rollup plugin to replace absolute paths to relative after bundle completes",
+  "main": "src/index.js",
+  "homepage": "https://github.com/gokul1630/rollup-absolute-alias",
+  "bugs": {
+    "url": "https://github.com/gokul1630/rollup-absolute-alias/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul1630/rollup-absolute-alias.git"
+  },
+  "keywords": [
+    "rollup",
+    "absolute to relative imports",
+    "rollup-alias",
+    "rollup imports"
+  ],
+  "files": [
+    "src"
+  ]
+}
