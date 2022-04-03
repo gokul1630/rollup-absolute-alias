@@ -1,6 +1,7 @@
 # rollup-absolute-alias
 ### Tiny plugin to replace imports after rollup bundle packages
-
+![npm](https://img.shields.io/npm/v/rollup-absolute-alias?style=plastic)
+![npm bundle size](https://img.shields.io/bundlephobia/min/rollup-absolute-alias?label=size&style=plastic)
 ## Installation
 ```
 npm install rollup-absolute-alias

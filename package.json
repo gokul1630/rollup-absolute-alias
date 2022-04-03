@@ -1,6 +1,6 @@
 {
   "name": "rollup-absolute-alias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Gokulprasanth",
   "license": "ISC",
   "description": "Tiny rollup plugin to replace absolute paths to relative after bundle completes",
